@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Neuroplastic1/Factorial-Feature/issues"
   },
-  "homepage": "https://github.com/Neuroplastic1/Factorial-Feature#readme"
+  "homepage": "https://github.com/Neuroplastic1/Factorial-Feature#readme",
+  "devDependencies": {
+    "mocha": "^9.1.2"
+  }
 }
